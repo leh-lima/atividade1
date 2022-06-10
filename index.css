@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+}
+.bloco1{
+    background-color: orange;
+    color:white;
+    padding:10px;
+    height: 100px;
+}
+.bloco1 h1{
+    margin-top:30px;
+    margin-left:20px;
+}
+.bloco2{
+    padding:10px;
+}
+.bloco3 h2{
+    font-family: 'Dancing Script', cursive;
+    padding:10px;
+}
+.bloco3 img{
+    border: 4px solid black;
+    margin:10px;
+    margin-left:60px;
+}
